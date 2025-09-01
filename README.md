@@ -1,7 +1,7 @@
 dAnsuhri
 ========
  
-![dAnushri cover](dAnushri.png)
+![dAnushri cover](images/dAnushri.png)
 
 ## dAnushri — Drum Pattern Generator for Renoise
 
