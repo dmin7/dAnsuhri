@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>dAnushri</Name>
+  <Id>re.dread.dAnushri</Id>
+  <Version>0.1</Version>
+  <ApiVersion>3</ApiVersion>
+  <Author>re.dread</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>Pattern</Category>
+  <Description>.</Description>
+  <Homepage></Homepage>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
