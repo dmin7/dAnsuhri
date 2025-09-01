@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RenoiseScriptingTool doc_version="0">
-  <Name>dAnushri</Name>
+  <ApiVersion>5</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
   <Id>re.dread.dAnushri</Id>
-  <Version>0.1</Version>
-  <ApiVersion>3</ApiVersion>
+  <Version>0.10000000000000001</Version>
   <Author>re.dread</Author>
-  <AutoUpgraded>false</AutoUpgraded>
-  <Category>Pattern</Category>
-  <Description>.</Description>
-  <Homepage></Homepage>
-  <Platform/>
-  <Icon/>
+  <Name>dAnushri</Name>
+  <Category>Pattern Editor</Category>
+  <Description>dAnushri drum pattern generator ...</Description>
 </RenoiseScriptingTool>

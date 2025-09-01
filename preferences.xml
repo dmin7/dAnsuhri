@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScriptingToolPreferences doc_version="0">
+  <HH>246.84000000000012</HH>
+  <swing>0.016</swing>
+  <BDInst>3</BDInst>
+  <BD>2.039999999999996</BD>
+  <SDVel>0.95200000000000007</SDVel>
+  <SDNote>48</SDNote>
+  <HHVel>0.97200000000000031</HHVel>
+  <BDAcc>-0.42399999999999999</BDAcc>
+  <SD>0.0</SD>
+  <track>2</track>
+  <BDVel>0.70800000000000018</BDVel>
+  <Y>219.30000000000018</Y>
+  <X>97.919999999999987</X>
+  <HHNote>55</HHNote>
+  <HHInst>5</HHInst>
+  <SDAcc>0.0023750000000003</SDAcc>
+  <SDInst>4</SDInst>
+  <HHAcc>0.38400000000000001</HHAcc>
+  <BDNote>42</BDNote>
+</ScriptingToolPreferences>
