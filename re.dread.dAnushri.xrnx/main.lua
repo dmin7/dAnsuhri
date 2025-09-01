@@ -1,20 +1,10 @@
 --------------------------------------------------------------
--- dAnushri drum pattern generator
--- 
--- check:
--- http://mutable-instruments.net/anushri
--- .. for more information
--- license is GPL 3.0 
---------------------------------------------------------------
 
 
 --[[ CHANGELOG:
 
   v0.1.1:
-    - changed "Bass" to "Kick"!!
-
-  v0.1:
-    - initial release
+// ...existing code moved to re.dread.dAnushri.xrnx/main.lua ...
 
 ]]
 

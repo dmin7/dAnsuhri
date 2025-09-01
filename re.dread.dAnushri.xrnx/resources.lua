@@ -377,7 +377,6 @@ node_24 = {
      127,      0,      0,      0,      0,     31,      0,      0,
 }
 
--- drum_map cluster
 drum_map = {
   { node_10, node_8, node_0, node_9, node_11 },
   { node_15, node_7, node_13, node_12, node_6 },
@@ -385,5 +384,6 @@ drum_map = {
   { node_23, node_16, node_21, node_1, node_2 },
   { node_24, node_19, node_17, node_20, node_22 },
 }
+// ...existing code moved to re.dread.dAnushri.xrnx/resources.lua ...
                   
-                  
+
